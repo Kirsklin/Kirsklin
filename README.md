@@ -30,7 +30,7 @@ You can find my dashboards and projects here:
 
 ## 📫 How to Reach Me
 - LinkedIn: www.linkedin.com/in/kirstenkline 
-- Email: Kirstenkline17@gmail.com
+- Email: Kirstkline@gmail.com
 
 ---
 
