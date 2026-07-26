@@ -20,7 +20,8 @@ I enjoy turning raw data into clear, actionable insights that help organizations
 
 ## 📊 Portfolio
 You can find my dashboards and projects here:
-- Tableau Public: https://public.tableau.com/app/profile/kirsten.kline/vizzes 
+- [Tableau Public](https://public.tableau.com/app/profile/kirsten.kline/vizzes)
+- [TripleTen Projects](Data_projects_TripleTen.md)
 
 ## 🌱 Currently Learning
 - Advanced SQL queries
